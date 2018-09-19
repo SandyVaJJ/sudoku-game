@@ -19,3 +19,5 @@ Requirements:
 	Each active game should have its own url.
 	The game should keep a history of your games if you "sign in".
 	Games should be timed.
+	When selecting a cell, the row and column should be highlighted.
+	When selecting a number all similar numbers should be highlighted.
